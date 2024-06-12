@@ -1,5 +1,7 @@
 # Hackintosh, Dual Xeon, E5 2686 V4, Machinist X99 D8 MAX
 
+![Overview](https://github.com/luchina-gabriel/EFI-MACHINIST-X99-D8-MAX-2x-INTEL-XEON-E5-2686-V4-RX570-PUBLIC/assets/23700365/6e859c5c-e7fc-43bc-9f4b-30bd0f98ffbe)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
